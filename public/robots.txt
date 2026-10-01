@@ -1,0 +1,5 @@
+# Robots.txt for sakibh.work
+User-agent: *
+Allow: /
+
+Sitemap: https://sakibh.work/sitemap.xml
